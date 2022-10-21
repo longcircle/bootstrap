@@ -25,7 +25,7 @@ export default function App() {
         slidesPerView={3}
         spaceBetween={30}
         slidesPerGroup={3}
-        loop={true}
+        loop={false}
         loopFillGroupWithBlank={true}
         pagination={{
           clickable: true,
